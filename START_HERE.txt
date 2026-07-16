@@ -1,0 +1,1 @@
+請複製 Vivi 老師的 Git repo：https://github.com/vivi911/goaskvivi-ai-reviewer-starter，帶我完成小審的 AI Agent 流程。
